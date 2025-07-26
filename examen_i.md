@@ -1,8 +1,8 @@
 # Examen: Análisis y Diseño de Aplicaciones
 
-**Nombre del estudiante:** ____________________________________________________________________________________________________________________________________________________________
-**Código / ID:** ______________________________________________________________________________ 
-**Fecha de aplicación:** ______________________________________________________________________________  
+**Nombre del estudiante:** Brayan Alexis Quebrada Castañeda __________________________________________________________________________________________________________________________
+**Código / ID:** 1038385031
+**Fecha de aplicación:** 26/07/2025
 
 **Duración total:** 5 horas 
 
@@ -28,124 +28,203 @@
 
 Marca la **única** alternativa correcta.
 
-1. ¿Cuál es la característica principal de una **entrevista semiestructurada**?
+1. ¿Cuál es la característica principal de una **entrevista semiestructurada**
+   
    a) Preguntas totalmente abiertas sin guion.
+   
    b) Guion rígido sin posibilidad de profundizar.
-   c) Guion con preguntas predefinidas y flexibilidad para seguir temas emergentes.
+   
+   c) Guion con preguntas predefinidas y flexibilidad para seguir temas emergente * X*****
+   
    d) Solo preguntas cerradas y cuantificables.
 
 2. En **observación contextual**, el investigador:
    a) Entrevista al usuario en una sala neutral.
-   b) Observa al usuario en su entorno natural mientras interactúa.
+   
+   b) Observa al usuario en su entorno natural mientras interactúa. X***
+   
    c) Sólo revisa grabaciones de uso antiguo.
+   
    d) Aplica encuestas después de la sesión.
 
 3. El proceso de **análisis temático** implica:
+
    a) Contar la frecuencia de cada palabra en el texto.
-   b) Identificar patrones recurrentes y agruparlos en temas.
+   
+   b) Identificar patrones recurrentes y agruparlos en temas. X****
+   
    c) Clasificar requisitos funcionales y no funcionales.
+   
    d) Definir prototipos de alta fidelidad.
 
 4. Un **requerimiento no funcional** describe:
+   
    a) Lo que debe hacer el sistema.
+   
    b) El perfil de usuario objetivo.
-   c) Cómo debe desempeñarse el sistema (rendimiento, usabilidad, seguridad).
+   
+   c) Cómo debe desempeñarse el sistema (rendimiento, usabilidad, seguridad). X****
+   
    d) Los casos de prueba del sistema.
 
 5. El criterio **INVEST** para User Stories no incluye:
-   a) Independiente
-   b) Negociable
+
+   a) Independiente 
+   
+   b) Negociable X****
+   
    c) Verificable
+   
    d) Estimable
 
 6. En un **card sorting abierto**, el objetivo es:
+    
    a) Definir jerarquías predeterminadas.
-   b) Que los usuarios generen sus propias categorías.
+   
+   b) Que los usuarios generen sus propias categorías. X***
+   
    c) Medir tiempos de clasificación.
+   
    d) Validar un prototipo de baja fidelidad.
 
 7. La **jerarquía** en un mapa de sitio:
+
    a) Representa flujo de pantallas.
+   
    b) Indica relación padre-hijo entre secciones.
-   c) Es una técnica de prototipado.
+   
+   c) Es una técnica de prototipado. X****
+   
    d) Mide satisfacción del usuario.
 
 8. ¿Cuál NO es técnica de elicitación?
+    
    a) Entrevista
+   
    b) Observación
+   
    c) Card sorting
-   d) Pruebas de carga
+   
+   d) Pruebas de carga X****
 
 9. Una **User Story** debe contener:
+    
    a) Título, descripción y criterios de aceptación.
+   
    b) Historia literaria.
+   
    c) Documentos de arquitectura.
-   d) Casos de prueba.
+   
+   d) Casos de prueba. X****
 
 10. ¿Qué es un **stakeholder**?
-    a) Usuario final exclusivamente.
+
+    a) Usuario final exclusivamente. X****
+    
     b) Cualquier persona o grupo con interés en el proyecto.
+    
     c) Equipo de desarrollo únicamente.
+    
     d) Proveedor de hardware.
 
 11. En la técnica de **focus group**, la dinámica principal es:
+
     a) Observación silenciosa.
-    b) Discusión guiada en grupo.
+    
+    b) Discusión guiada en grupo. X*****
+    
     c) Pruebas unitarias.
+    
     d) Envío de encuestas.
 
 12. El **análisis de tareas** se enfoca en:
+    
     a) Estructurar la base de datos.
-    b) Descomponer actividades del usuario en pasos.
+    
+    b) Descomponer actividades del usuario en pasos. X****
+    
     c) Definir prototipos de alta fidelidad.
+    
     d) Evaluar performance.
 
 13. Un **wireframe** es:
-    a) Prototipo interactivo completo.
-    b) Boceto de pantallas con estructura básica.
+    
+    a) Prototipo interactivo completo
+    
+    b) Boceto de pantallas con estructura básica. X**
+    
     c) Diseño visual final.
+    
     d) Manual de usuario.
 
 14. El **requisito funcional** “La app debe enviar notificaciones” es:
+    
     a) Falso positivo.
+    
     b) Bien definido.
-    c) Ambiguo sin criterios de cuándo o cómo.
+    
+    c) Ambiguo sin criterios de cuándo o cómo. X****
+    
     d) No aplicable.
 
 15. ¿Qué técnica usa tarjetas con términos que el usuario agrupa?
-    a) Card sorting
+    
+    a) Card sorting X***
+    
     b) Interview
+    
     c) Ethnography
+    
     d) Benchmarking
 
 16. El **criterio de aceptación** de una User Story:
-    a) Describe el valor de negocio.
+    
+    a) Describe el valor de negocio. X***
+    
     b) Define condiciones para considerar la historia completa.
+    
     c) Detalla el modelo de datos.
+    
     d) Agrega notas de diseño.
 
 17. La **observación no participante** se diferencia de la participante porque:
-    a) El investigador no interviene.
+
+    a) El investigador no interviene. X****
+    
     b) El investigador lidera la actividad.
+    
     c) Solo aplica en laboratorio.
+    
     d) Usa prototipos.
 
 18. En **entrevista estructurada**, el guion es:
+    
     a) Flexible y abierto.
-    b) Totalmente fijo sin desviaciones.
+    
+    b) Totalmente fijo sin desviaciones. X***
+    
     c) Solo preguntas abiertas.
+    
     d) Solo preguntas cerradas.
 
 19. El objetivo de un **prototipo de baja fidelidad** es:
+    
     a) Detallar estilo visual.
-    b) Validar flujo y estructura rápida.
+    
+    b) Validar flujo y estructura rápida. X**
+    
     c) Entregar al cliente final.
+    
     d) Realizar pruebas de estrés.
 
 20. Un **diagrama de casos de uso** sirve para:
-    a) Modelar interacciones sistema-actor.
+    
+    a) Modelar interacciones sistema-actor. X***
+    
     b) Definir esquema de base de datos.
+    
     c) Probar performance.
+    
     d) Crear guiones de entrevista.
 
 ---
@@ -154,21 +233,21 @@ Marca la **única** alternativa correcta.
 
 Indica con “V” (verdadero) o “F” (falso).
 
-1. \_\_\_ Las **preguntas cerradas** en una entrevista semiestructurada permiten respuestas abiertas y narrativas.
-2. \_\_\_ Un **card sorting abierto** permite a los usuarios definir sus propias categorías.
-3. \_\_\_ En análisis temático, las **etiquetas** son palabras clave que describen fragmentos de datos.
-4. \_\_\_ Una **User Story** debe ser simultáneamente pequeña y negociable según INVEST.
-5. \_\_\_ La **observación contextual** sólo se realiza en laboratorio, no en el entorno real de uso.
-6. \_\_\_ La clasificación de requerimientos distingue entre “qué” (funcional) y “cómo” (no funcional).
-7. \_\_\_ Un **wireframe** es equivalente a un prototipo de alta fidelidad.
-8. \_\_\_ La **jerarquía** en un mapa de sitio ayuda a entender relaciones padre-hijo entre pantallas.
-9. \_\_\_ En card sorting cerrado, las categorías vienen predefinidas.
-10. \_\_\_ El **análisis temático** agrupa códigos en temas tras la codificación inicial.
-11. \_\_\_ El **criterio INVEST** incluye que la historia sea negociable.
-12. \_\_\_ La **observación participante** implica que el investigador colabora en la tarea.
-13. \_\_\_ En entrevista semiestructurada no hay posibilidad de profundizar en temas emergentes.
-14. \_\_\_ Un **stakeholder** puede ser un patrocinador del proyecto.
-15. \_\_\_ Los criterios de aceptación son obligatorios para definir una User Story.
+1. \_F\_\_ Las **preguntas cerradas** en una entrevista semiestructurada permiten respuestas abiertas y narrativas.
+2. \_V\_\_ Un **card sorting abierto** permite a los usuarios definir sus propias categorías.
+3. \_V\_\_ En análisis temático, las **etiquetas** son palabras clave que describen fragmentos de datos.
+4. \_\F_\_ Una **User Story** debe ser simultáneamente pequeña y negociable según INVEST.
+5. \_\F_\_ La **observación contextual** sólo se realiza en laboratorio, no en el entorno real de uso.
+6. \_\F_\_ La clasificación de requerimientos distingue entre “qué” (funcional) y “cómo” (no funcional).
+7. \_\V_\_ Un **wireframe** es equivalente a un prototipo de alta fidelidad.
+8. \_V_\_ La **jerarquía** en un mapa de sitio ayuda a entender relaciones padre-hijo entre pantallas.
+9. \_\V_\_ En card sorting cerrado, las categorías vienen predefinidas.
+10. \_\F_\_ El **análisis temático** agrupa códigos en temas tras la codificación inicial.
+11. \_\F_\_ El **criterio INVEST** incluye que la historia sea negociable.
+12. \_\V_\_ La **observación participante** implica que el investigador colabora en la tarea.
+13. \_\_F\_ En entrevista semiestructurada no hay posibilidad de profundizar en temas emergentes.
+14. \_\V_\_ Un **stakeholder** puede ser un patrocinador del proyecto.
+15. \_\V_\_ Los criterios de aceptación son obligatorios para definir una User Story.
 
 ---
 
@@ -177,12 +256,12 @@ Indica con “V” (verdadero) o “F” (falso).
 Relaciona cada **técnica** (columna A) con su **descripción** (columna B). Escribe la letra correspondiente.
 
 | **A – Técnica**                | **B – Descripción**                                              |
-| ------------------------------ | ---------------------------------------------------------------- |
-| 1. Entrevista estructurada     | a) Guion fijo, respuestas cerradas                               |
-| 2. Entrevista semiestructurada | b) Guion predefinido con flexibilidad                            |
-| 3. Observación contextual      | c) Observación en entorno real sin intervenir                    |
-| 4. Card sorting cerrado        | d) Categorías predefinidas, usuario ordena ítems                 |
-| 5. Análisis temático           | e) Identificación y agrupación de patrones en datos cualitativos |
+| -------------------------------  | ---------------------------------------------------------------- |
+| 1. Entrevista estructurada a)    | a) Guion fijo, respuestas cerradas                            |
+| 2. Entrevista semiestructurada b)| b) Guion predefinido con flexibilidad                            |
+| 3. Observación contextual c)     | c) Observación en entorno real sin intervenir                    |
+| 4. Card sorting cerrado d)       | d) Categorías predefinidas, usuario ordena ítems                 |
+| 5. Análisis temático  e)         | e) Identificación y agrupación de patrones en datos cualitativos |
 
 ---
 
@@ -190,17 +269,35 @@ Relaciona cada **técnica** (columna A) con su **descripción** (columna B). Esc
 
 Define brevemente (máx. 3 líneas) los siguientes términos:
 
-1. Entrevista semiestructurada
-2. Observación contextual
-3. Card sorting
-4. Análisis temático
-5. User Story
-6. Stakeholder
-7. Wireframe
-8. INVEST
-9. Criterio de aceptación
-10. Diagrama de casos de uso
+1. Entrevista semiestructurada:
+Es una entrevista que tiene preguntas predefinidas pero las respuestas no son cerradas
 
+2. Observación contextual:
+Es la observación del entorno natural (Como la interacción de un usario con una app) sin llegar a intervenir
+
+3. Card sorting:
+Son categorías que el usuario puede ordenar o definir   
+
+4. Análisis temático:
+Es la identificación de temas que se repiten según los datos obtenidos
+
+5. User Story:
+Es la historia de un usuario sobre sus experiencias 
+
+6. Stakeholder:
+Es el cliente final o la persona a la que afecta un producto
+
+7. Wireframe:
+Son prototipos que ayudan a saber como se verá el diseño final o una serie de ideas
+
+8. INVEST:
+Son criterios que sirven para validar la historia de un usuario
+
+9. Criterio de aceptación:
+Son requisitos para medir que tan buena será la historia del usuario
+
+10. Diagrama de casos de uso
+Es la representación de como se usa la app en varios casos
 ---
 
 ## II. Componente Práctico
@@ -223,6 +320,25 @@ Diseña un plan que combine **entrevistas semiestructuradas**, **observación co
 - Dos tareas para observación contextual con criterios de etiquetado de comportamientos (3 puntos).  
 - Diseño de un ejercicio de card sorting (modo abierto o cerrado) con lista de 6 ítems de datos a clasificar (2 puntos).
 
+Preguntas:
+1. ¿Con qué frecuencia te desplazas
+Me desplazo al menos 5 veces a la semana
+
+3. ¿Cómo te desplazas normalmente?
+Me desplazo por medio de bicicleta
+   
+4. ¿Cómo es la movilidad por la ciudad?
+Hay buenos tramos de ciclovias y ayudan mucho a movilizarse, aunque algunas veces no son tan visibles
+   
+5. ¿Los sitios por los que te desplazan hay zonas verdes?
+Sí, hay una cantidad considerable de zonas verdes
+
+Objetivo de la entrevista: Conseguir información sobre como se movilizan las personas en Bogotá
+
+observación contextual:
+Las personas normalmente se desplazan por las ciclovías y senderos peatonales
+objetivo: Identificar los sitios por los que se mueven y tener un análisis acertado
+
 *Justifica brevemente* (máx. 2 líneas por técnica) tu elección de cada técnica.
 
 ---
@@ -233,6 +349,28 @@ A partir de las siguientes transcripciones cortas de entrevista (tres fragmentos
 
 1. **Codificación**: Asigna al menos 2 códigos por fragmento (6 puntos).  
 2. **Agrupación**: Forma 2 temas principales con sus códigos (4 puntos).
+
+Codificacion:
+a) Falta de orientación sin la tecnología
+usa la app cuando camina
+Siente preocupación si se queda sin apoyo tecnológico
+
+b) Prefiere la seguridad aunque se tarde más
+usa la app para encontrar ciclorutas
+
+c) Le gusta ir a las zonas verdes 
+Se interesa por la fotografía
+
+Agrupación:
+
+Zonas y rutas de interés:
+Le gusta ir a las zonas verdes 
+usa la app para encontrar ciclorutas 
+usa la app cuando camina
+
+Sensaciones:
+Siente preocupación si se queda sin apoyo tecnológico
+ Prefiere la seguridad aunque se tarde más
 
 > **Fragmentos:**  
 > a) “Cuando camino, me preocupa quedarme sin batería en el celular para mapear.”  
@@ -245,17 +383,30 @@ A partir de las siguientes transcripciones cortas de entrevista (tres fragmentos
 
 De cada uno de los 5 enunciados siguientes, indica si es **funcional (F)** o **no funcional (NF)** y redacta el requerimiento en forma precisa:
 
-1. La app debe mostrar rutas según nivel de dificultad.  
-2. La carga de mapas no puede tardar más de 3 segundos.  
-3. El usuario podrá filtrar rutas por puntos de interés.  
-4. La interfaz debe ser usable con una sola mano en modo bicicleta.  
-5. La app debe funcionar sin conexión en zonas sin internet.  
+1. La app debe mostrar rutas según nivel de dificultad. F 
+
+
+2. La carga de mapas no puede tardar más de 3 segundos. NF
+
+3. El usuario podrá filtrar rutas por puntos de interés. F 
+
+4. La interfaz debe ser usable con una sola mano en modo bicicleta. NF
+
+5. La app debe funcionar sin conexión en zonas sin internet. NF 
 
 ---
 
 #### Ejercicio 4. Redacción de User Stories (10 puntos)
 
 Escribe **3 User Stories** distintas (formato INVEST) que cubran tres roles de usuario diferentes de “EcoRutas” (invitado, registrado, administrador). Cada historia vale 3 puntos y la justificación del valor de negocio 1 punto.
+
+Invitado:
+Estaba usando EcoRutas y fue una buena experiencia, aunque siento que el mapa algunas veces no tiene mucha precisión en las zonas verdes, por ejemplo, en la avenida Santa Rosa muestra una zona verde pero no está y también limita algunas cosas por no estar registrado, como subir fotos o registrar sitios de interés.
+
+Justificación: Muestra que la app puede fallar algunas veces mostrando algunos sitios
+
+Registrado: 
+La app funciona bastante bien, han mejorado bastantes aspectos  como mayor precisión en las ubicaciones y poder subir fotos de los lugares
 
 ---
 
@@ -267,6 +418,20 @@ Elabora un párrafo breve (máx. 8 líneas) donde reflexiones **por qué combina
 - Contrastar datos “dichos” vs. “observados”.  
 - Proponer al menos una mejora al plan original.
 
+
+La combinación de las 3 sirve porque combinan lo que piensan las personas, lo que se ve en realidad y como
+sería la forma más sencilla y clara de representar la información
+
+Entrevista: 
+- Se conoce la situación y posibles intereses de futuros usuarios de forma más específica
+
+Observación:
+- Presenta el panorama más realista del entorno y se puede sacar datos
+
+Card sorting:
+
+Estaría bien aumentar o cambiar el lugar de las encuestas a uno que las personas se movilicen más por esos medios
+de transporte alternos
 ---
 
 ## III. Criterios de Evaluación
